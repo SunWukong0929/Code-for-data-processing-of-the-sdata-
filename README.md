@@ -1,1 +1,1 @@
-# In this field, we make available all custom code used in the processing of datasets. The image-enhancement.py is used to enhance the contrast and sharpness of our image. The format-conversion.py is used to change the format of our original data.
+# In this field, we make available all custom code used in the processing of datasets. The image-enhancement.py is used to enhance the contrast and sharpness of our images. The format-conversion.py is used to change the format of our original datas.
